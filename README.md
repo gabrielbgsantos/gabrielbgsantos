@@ -6,7 +6,7 @@ I am a recent graduate with a profound interest in technology, with a good probl
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work as a Pentester/Red Team.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work as a Cybersecurity analyst/Pentester.
 
 ## Skills
 
