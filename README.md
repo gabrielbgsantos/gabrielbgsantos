@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | LAN Pentest                                   | 
 | Malware analysis                              |<a href="https://github.com/GabrielBGSantos/ZeusBankingTrojanAnalysis">Zeus Trojan Analysis</a> |
-
+| Networking Essentials                         |<a href="https://github.com/GabrielBGSantos/Projeto-Parque-Tecnologico-para-250-dispositivos.">A network project for 250 devices</a> |
 ## Tools
 
 ### Network
