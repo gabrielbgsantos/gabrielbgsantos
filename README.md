@@ -2,18 +2,18 @@
 # Hello, I'm Gabriel Borges
 <a href="https://www.linkedin.com/in/gabriel-borges-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology, with a good problem solution knowledge and a great learning passion.
+I am a recent graduate with a profound interest in technology, strong problem-solving skills, and a great passion for learning.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work as a Cybersecurity analyst/Pentester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work as a cybersecurity analyst or pentester.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LAN Pentest          | 
-| WLAN Pentest | 
+| LAN Pentest                                   | 
+| Malware analysis                              |<a href="https://github.com/GabrielBGSantos/ZeusBankingTrojanAnalysis">Zeus Trojan Analysis</a> |
 
 ## Tools
 
