@@ -1,4 +1,3 @@
-// building  
 Hello, I'm Gabriel Borges
 <a href="https://www.linkedin.com/in/gabriel-borges-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -12,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LAN Pentest                                   | 
 | Malware analysis                              |<a href="https://github.com/GabrielBGSantos/ZeusBankingTrojanAnalysis">Zeus Trojan Analysis</a> |
 | Networking Essentials                         |<a href="https://github.com/GabrielBGSantos/Projeto-Parque-Tecnologico-para-250-dispositivos.">A network project for 250 devices</a> |
+| Cybersecurity reports and frameworks          |<a href="https://github.com/GabrielBGSantos/Implemeting-NIST-Framework">Implemeting NIST Framework |
 ## Tools
 
 ### Network
