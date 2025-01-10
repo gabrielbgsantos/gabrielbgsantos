@@ -1,4 +1,5 @@
 Hello, I'm Gabriel Borges
+
 <a href="https://www.linkedin.com/in/gabriel-borges-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology, strong problem-solving skills, and a great passion for learning.
